@@ -1,0 +1,8 @@
+model,metric,value
+Random Forest Regressor,MAE (Speed Drop %),2.31
+Random Forest Regressor,RMSE (Speed Drop %),3.51
+Random Forest Regressor,R2 Score,0.8206
+Random Forest Classifier,Test Accuracy %,89.13
+Random Forest Classifier,Weighted Precision %,89.23
+Random Forest Classifier,Weighted Recall %,89.13
+Random Forest Classifier,Weighted F1 Score %,89.18

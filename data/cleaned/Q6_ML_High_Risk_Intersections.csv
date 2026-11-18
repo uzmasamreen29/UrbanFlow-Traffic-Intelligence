@@ -1,0 +1,9 @@
+int_id,intersection_name,forecasted_hours,avg_actual_speed_drop_pct,avg_predicted_speed_drop_pct,predicted_high_risk_hours,predicted_medium_risk_hours,peak_high_risk_prob_pct
+24,LOOP 360LAKEWOOD,351,19.91,20.04,29,201,82.5
+1,LAMARMANCHACA,349,13.5,13.36,4,130,82.3
+23,BURNETPALM WAY,351,19.59,19.5,1,249,51.9
+20,CESAR CHAVEZIH 35 WSR,351,15.1,15.09,0,184,44.6
+3,LAMARSHOALCREEK,351,9.88,9.98,0,7,1.7
+10,LamarBroken Spoke,351,9.39,9.6,0,20,3.6
+22,LAMARCOLLIER,351,8.33,8.73,0,9,4.7
+15,Cesar ChavezBR Reynolds,287,4.85,5.57,0,7,30.0

@@ -1,0 +1,11 @@
+int_id,intersection_name,active_intervals,total_vehicles,avg_actual_speed_mph,free_flow_speed_mph,avg_speed_drop_pct,avg_lane_occupancy_pct
+24,LOOP 360LAKEWOOD,33007,2777465,47.0,59.0,21.6,4.7
+23,BURNETPALM WAY,29331,1218871,36.0,45.0,20.7,1.9
+11,BurnetRutland,21665,1010995,38.0,45.0,16.7,2.5
+20,CESAR CHAVEZIH 35 WSR,29343,2037084,25.3,27.0,15.1,8.1
+1,LAMARMANCHACA,22918,1412837,30.2,34.0,12.3,3.6
+17,CongressJohanna,287,4346,30.6,34.1,11.6,0.7
+3,LAMARSHOALCREEK,24555,1420236,29.9,33.0,9.9,2.7
+10,LamarBroken Spoke,25216,1876292,38.2,42.0,9.7,3.9
+22,LAMARCOLLIER,25605,2162850,35.7,39.0,8.9,4.2
+15,Cesar ChavezBR Reynolds,24437,2537898,42.8,45.0,5.4,4.6

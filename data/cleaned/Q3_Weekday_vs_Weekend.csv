@@ -1,0 +1,9 @@
+is_weekend,time_period,total_intervals,total_volume,avg_speed_mph,avg_speed_drop_pct,severe_congestion_share_pct
+Weekday,1. Morning Peak (06-09),28983,1982486,37.4,10.6,6.04
+Weekday,2. Midday (10-15),43512,4642602,34.7,16.6,8.81
+Weekday,3. Evening Peak (16-19),28282,3370475,33.5,19.1,10.05
+Weekday,4. Night / Off-Peak (20-05),67771,2099695,37.7,10.8,5.19
+Weekend,1. Morning Peak (06-09),10852,345848,37.1,10.8,7.54
+Weekend,2. Midday (10-15),17525,1815512,34.3,17.8,9.95
+Weekend,3. Evening Peak (16-19),11236,1141257,34.3,17.2,9.59
+Weekend,4. Night / Off-Peak (20-05),28203,1060999,37.2,11.9,6.29
